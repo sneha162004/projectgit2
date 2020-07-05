@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\Table.html"
+		},
+		{
+			"path": "..\\Basics.html"
+		},
+		{
+			"path": "..\\project1"
+		},
+		{
+			"path": "..\\project2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project2"
+	}
+}
